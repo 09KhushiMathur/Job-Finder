@@ -41,7 +41,7 @@ Add your deployed website link here.
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+https://github.com/09KhushiMathur/Job-Finder
 
 ## Author
 Khushi
